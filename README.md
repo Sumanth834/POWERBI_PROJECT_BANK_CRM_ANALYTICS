@@ -3,7 +3,7 @@
 Objective
 To analyze customer behavior, churn trends, and demographic insights to uncover actionable patterns that support customer retention and strategic banking decisions.
 
-Project Overview
+# Project Overview
 This project delivers a comprehensive Power BI dashboard built on a bank's customer data. It focuses on:
 Churn prediction and customer behavior analysis
 Demographic segmentation based on geography, gender, credit score, and age
@@ -11,14 +11,14 @@ Financial profiling using balance and salary data
 Product affinity and credit card usage trends
 The analysis combines data modeling, DAX, and storytelling dashboards to surface patterns that help CRM teams reduce churn and enhance engagement strategies.
 
-Tools & Technologies
+# Tools & Technologies
 Microsoft Power BI – Dashboard creation and visual analytics
 Power Query – Data transformation and cleansing
 DAX (Data Analysis Expressions) – KPI and metric definitions
 SQL (MySQL) – Advanced querying, segmentation, and filtering logic
 Excel – Initial data exploration and mapping
 
-Key Insights
+# Key Insights
 1. Churn Patterns
 Identified a higher churn rate among female customers (25.05%) compared to male customers (15.37%)
 Customers with low credit scores and low balance were more likely to churn
@@ -35,13 +35,13 @@ Opportunity identified for cross-selling based on product affinity
 Churn was highest in Germany, especially among customers with 2 or more products
 Certain age groups (35–45) exhibited higher risk for churn
 
-Dashboard:
+# Dashboard:
 <img width="1224" height="680" alt="Picture1" src="https://github.com/user-attachments/assets/87b7fa02-a520-4cee-be83-bf71c78a60c4" />
 <img width="1194" height="677" alt="Picture2" src="https://github.com/user-attachments/assets/cd273dc1-af3b-4a3a-ad48-4b9c08f4ac21" />
 <img width="1193" height="638" alt="Picture3" src="https://github.com/user-attachments/assets/0a2eb11a-fc58-4c46-acab-d011e6685616" />
 
 
-Strategic Recommendations
+# Strategic Recommendations
 Targeted Retention Campaigns
 Focus on customers in high-churn segments with personalized outreach.
 Enhance Credit Scoring Models
@@ -51,7 +51,7 @@ Encourage usage of additional services based on product overlap analysis.
 Geo-based Engagement:
 Develop region-specific engagement and communication strategies, especially for high-churn geographies like Germany.
 
-Project Outcomes
+# Project Outcomes
 Clear visibility into why and where churn happens
 Strong segmentation for personalized CRM strategies
 Readiness for predictive modeling with churn KPIs already in place
